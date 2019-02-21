@@ -1,0 +1,1 @@
+empty configuration file for config all your settings in the IOT device.
