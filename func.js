@@ -1,5 +1,6 @@
 function getName(name) {
-	return name;
+	let nadee = name.split();
+	return nadee;
 }
 
 getName();
